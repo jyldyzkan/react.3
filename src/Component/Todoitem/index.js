@@ -26,7 +26,7 @@ const TodoItem = ({todo, deleteTodo, handleEditTodo}) => {
                 display: 'flex' ,
                 gap: '15px' ,
                 alignItems: 'center',
-                padding: '15px'
+                padding: '15px 0'
             }}
         >
 
